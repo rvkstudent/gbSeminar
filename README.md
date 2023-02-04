@@ -1,1 +1,1 @@
-# gbSeminar
+# gbSeminar (Семинар 3)
