@@ -2,3 +2,4 @@
 
 > GIT Clone info
 
+git push info
